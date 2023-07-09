@@ -9,6 +9,9 @@
     background-color: #fff;
 }
 
+.bg-color-personal-infos {
+    background-color: #f4f4f4;
+}
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -213,3 +216,13 @@ footer {
 .three-reaons-heading { 
     margin-bottom: 15px;
 }
+
+
+/* ------------------------------------------------Personal Info */
+
+.personal-info-item {
+    margin-bottom: 20px;
+    display: block;
+    clear: float;
+}
+
